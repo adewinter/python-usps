@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: python-usps
+Version: 0.0.2dev
+Summary: A python wrapper to the USPS API
+Home-page: http://github.com/cuker/python-usps
+Author: Jason Kraus
+Author-email: zbyte64@gmail.com
+License: New BSD License
+Description: A python wrapper to the USPS API
+        
+Keywords: usps api shipping
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Operating System :: OS Independent
+Classifier: Natural Language :: English
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content

@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+python_usps.egg-info/PKG-INFO
+python_usps.egg-info/SOURCES.txt
+python_usps.egg-info/dependency_links.txt
+python_usps.egg-info/not-zip-safe
+python_usps.egg-info/top_level.txt
+usps/__init__.py
+usps/errors.py
+usps/utils.py
+usps/api/__init__.py
+usps/api/addressinformation.py
+usps/api/base.py
+usps/api/ratecalculator.py
+usps/api/servicestandards.py
+usps/api/tracking.py
